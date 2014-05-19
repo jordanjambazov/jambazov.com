@@ -5,3 +5,10 @@ About
 :url: 
 :save_as: index.html
 
+
+.. code-block:: python 
+
+    jordan = Person()
+    jordan.name = "Jordan Jambazov"
+    jordan.age = 21
+    jordan.occupation = "Python Developer"

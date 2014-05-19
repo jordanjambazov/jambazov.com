@@ -5,3 +5,8 @@ Contact
 :url: contact.html 
 :save_as: contact.html
 
+.. code-block:: python 
+
+    import base64
+    email = base64.b64decode('am9yZGFuLmphbWJhem92QGdtYWlsLmNvbQ==')
+    phone = base64.b64decode('KzM1OSA4OTkgOTIxIDE3Nw==')
