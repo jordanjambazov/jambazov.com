@@ -12,3 +12,5 @@ About
     jordan.name = "Jordan Jambazov"
     jordan.age = 21
     jordan.occupation = "Python Developer"
+
+Have a look at `my Résumé <http://jambazov.com/resume/>`_.
